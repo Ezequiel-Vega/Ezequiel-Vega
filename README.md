@@ -4,7 +4,7 @@
 </p>
 <h3 align="center">Un apacionado del desarollo y la programacion</h3>
 
-- 👨‍💻 Tengo una pagina personal porque no le echas un vistazo! [ezequiel-vega.com](ezequiel-vega.com)
+- 👨‍💻 Tengo una pagina personal porque no le echas un vistazo! [https://www.ezequiel-vega.com/](www.ezequiel-vega.com)
 
 - 📫 Puedes contactarme mediante mi e-mail **vegaezequiel51@gmail.com**
 
