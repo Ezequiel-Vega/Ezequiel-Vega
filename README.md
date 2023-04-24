@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Ezequiel Vega</h1>
-![image info](https://avatars.githubusercontent.com/u/39246608?v=4)
+<img src="https://avatars.githubusercontent.com/u/39246608?v=4" alt="isolated" width="200"/>
 <h3 align="center">Un apacionado del desarollo y la programacion</h3>
 
 - 👨‍💻 Tengo una pagina personal porque no le echas un vistazo! [ezequiel-vega.com](ezequiel-vega.com)
